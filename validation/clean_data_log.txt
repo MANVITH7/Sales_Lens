@@ -1,0 +1,13 @@
+Loaded raw file: superstore.csv — 9994 rows, 21 columns (encoding=cp1252)
+Standardized column names to snake_case: ['Row ID', 'Order ID', 'Order Date', 'Ship Date', 'Ship Mode', 'Customer ID', 'Customer Name', 'Segment', 'Country', 'City', 'State', 'Postal Code', 'Region', 'Product ID', 'Category', 'Sub-Category', 'Product Name', 'Sales', 'Quantity', 'Discount', 'Profit'] -> ['row_id', 'order_id', 'order_date', 'ship_date', 'ship_mode', 'customer_id', 'customer_name', 'segment', 'country', 'city', 'state', 'postal_code', 'region', 'product_id', 'category', 'sub_category', 'product_name', 'sales', 'quantity', 'discount', 'profit']
+Parsed 'order_date' to datetime (no parsing failures)
+Parsed 'ship_date' to datetime (no parsing failures)
+Duplicate rows removed: 0 (kept first occurrence of each)
+No missing values found in any column
+Normalized whitespace/casing in 'product_name': 273 values changed
+Rows with negative profit (loss-making orders): 1871 — kept, flagged via 'is_loss' column
+Rows with discount >= 50%: 922 — kept, flagged via 'is_high_discount' column
+Rows with sales <= 0: 0 — none dropped, informational only
+Added calculated columns: order_year, order_month, profit_margin (profit / sales)
+Exported cleaned dataset to data/cleaned/superstore_cleaned.csv (9994 rows)
+Loaded 9994 rows into table 'sales_orders' in retail_analytics.db
