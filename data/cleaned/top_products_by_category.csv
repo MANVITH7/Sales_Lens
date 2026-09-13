@@ -1,0 +1,31 @@
+category,sub_category,product_name,total_sales,total_profit,total_quantity,sales_rank_in_category
+Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,21870.58,0.0,39,1
+Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",15610.97,-669.54,24,2
+Furniture,Tables,Bretford Rectangular Conference Table Tops,12995.29,-327.23,46,3
+Furniture,Chairs,Global Troy Executive Leather Low-Back Tilter,12975.38,951.86,32,4
+Furniture,Chairs,SAFCO Arco Folding Chair,11572.78,1179.37,53,5
+Furniture,Bookcases,DMI Eclipse Executive Suite Bookcases,11046.61,90.18,27,6
+Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",10637.53,1927.44,51,7
+Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,9917.64,-2876.12,27,8
+Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,9544.72,-1934.4,33,9
+Furniture,Chairs,GuestStacker Chair with Chrome Finish Legs,9070.94,773.26,31,10
+Office Supplies,Binders,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,27453.38,7753.04,31,1
+Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,19823.48,2233.51,37,2
+Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,19024.5,760.98,48,3
+Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,17965.07,-1878.17,27,4
+Office Supplies,Supplies,High Speed Automatic Electric Letter Opener,17030.31,-262.0,11,5
+Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,16656.2,-1299.18,22,6
+Office Supplies,Binders,Ibico EPK-21 Electric Binding System,15875.92,3345.28,13,7
+Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,11304.44,3247.02,40,8
+Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,10925.0,1575.11,43,9
+Office Supplies,Storage,Tennsco Double-Tier Lockers,9630.86,429.79,47,10
+Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,61599.82,25199.93,20,1
+Technology,Machines,Cisco TelePresence System EX90 Videoconferencing Unit,22638.48,-1811.08,6,2
+Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,18839.69,6983.88,38,3
+Technology,Machines,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",18374.9,4094.98,12,4
+Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,16829.9,-4589.97,18,5
+Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",14299.89,3717.97,11,6
+Technology,Phones,Samsung Galaxy Mega 6.3,13943.67,1822.76,39,7
+Technology,Phones,Apple iPhone 5,12996.6,1611.58,24,8
+Technology,Copiers,Canon PC1060 Personal Laser Copier,11619.83,4570.93,19,9
+Technology,Machines,Cubify CubeX 3D Printer Double Head Print,11099.96,-8879.97,9,10
